@@ -7,5 +7,7 @@ Learning with Tanay Pratap via neogcamp.
 For now I know:
 1. JavaScript
 2. NodeJS
-3. Repl.it
-4. CHALK 
+3. React
+4. Repl.it
+5. CHALK
+6. Postman
